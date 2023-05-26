@@ -1,6 +1,2 @@
-def name(name) -> str:
-    return name;
- 
-
-print(name("Laye"));
+print("Hello python");
   
