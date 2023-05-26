@@ -1,13 +1,6 @@
-
-class Person:
-  
-  def __init__(self, name):
-      self.name = name;
-  
-  def name(self):
-      return self.name;
+def name(name) -> str:
+    return name;
  
 
-person = Person("Ousmane");
-print(person.name());
+print(name("Laye"));
   
